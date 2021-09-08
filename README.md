@@ -3,7 +3,7 @@
 
 ### Eu sou a Talita!
 
--Estudante de Front-End 
+-Estudante de Front-End na ALURA  
 
 <p>Tecnologias que estou aprendendo no momento:</p> 
 
