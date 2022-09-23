@@ -11,6 +11,10 @@ Freelancer
 Aplicativo para Web desenvolvido para Futura Comércio de Instalação e Manutenção
 http://www.futurapostos.com.br/
 
+### Tecnologias que estão sendo utilizadas:
+
+![Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 ## status
 
 <h4 align="center"> 
