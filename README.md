@@ -3,13 +3,13 @@
 
 ### Eu sou a Talita!
 
-Estudante de Desenvolvimento Front-End 
-Freelancer
+- Estudante de Desenvolvimento Front-End 
+- Freelancer
 
 ## Atualmente estou trabalhando no projeto: 
 
 Aplicativo para Web desenvolvido para Futura Comércio de Instalação e Manutenção
-http://www.futurapostos.com.br/
+=> http://www.futurapostos.com.br/
 
 ### Tecnologias que estão sendo utilizadas:
 
