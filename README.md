@@ -4,6 +4,10 @@
 ### Eu sou a Talita!
 
 Estudante de Desenvolvimento Front-End 
+Freelancer
+
+##Visite o projeto que estou trabalhando: 
+https://www.figma.com/file/sNl9oPd4Hdhyg6g06SKAuv/FUTURA-PROTOTIPO?node-id=0%3A1
 
 ### Conhecimentos em:  
 
