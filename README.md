@@ -15,12 +15,6 @@ Aplicativo para Web desenvolvido para Futura Comércio de Instalação e Manuten
 
 ![Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-## status
-
-<h4 align="center"> 
-	🚧  Futura WebApp 🚀 Em construção...  🚧
-</h4>
-
 
 ### Visite o layout do projeto: 
 https://www.figma.com/file/sNl9oPd4Hdhyg6g06SKAuv/FUTURA-PROTOTIPO?node-id=0%3A1
