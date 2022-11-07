@@ -3,7 +3,7 @@
 
 ### Eu sou a Talita!
 
-- Estudante de Desenvolvimento Front-End 
+- Estudante de  Analise e Desenvolvimento de Sistemas 
 - Freelancer
 
 ## Atualmente estou trabalhando no projeto: 
