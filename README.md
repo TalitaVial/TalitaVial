@@ -1,8 +1,5 @@
 
 # Bem Vindos!
-
-### Eu sou a Talita!
-
 - Estudante de  Analise e Desenvolvimento de Sistemas 
 - Freelancer
 
