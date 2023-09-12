@@ -1,16 +1,18 @@
 
-## Atualmente estou trabalhando no projeto: 
+## Atualmente: 
+  Estou trabalhando na equipe de desenvolvimento do sistema de gerenciamento de laudos para Politec/MT, o Atena.
 
-Aplicativo para Web desenvolvido para Futura Comércio de Instalação e Manutenção
+### Tenho um trabalho em produção:
+  Se trata de um aplicativo para Web desenvolvido para Futura Comércio de Instalação e Manutenção
+  
 => http://www.futurapostos.com.br/
 
-### Tecnologias que estão sendo utilizadas:
+  Visite o layout do projeto:
+  
+=> https://www.figma.com/file/sNl9oPd4Hdhyg6g06SKAuv/FUTURA-PROTOTIPO?node-id=0%3A1
 
+#### Para esse projeto eu utilizei:
 ![Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-Visite o layout do projeto: 
-https://www.figma.com/file/sNl9oPd4Hdhyg6g06SKAuv/FUTURA-PROTOTIPO?node-id=0%3A1
-
 
 ## Conhecimentos em:  
 
