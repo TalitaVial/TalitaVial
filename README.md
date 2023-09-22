@@ -8,7 +8,7 @@
   Visite o layout do projeto:
   => https://www.figma.com/file/sNl9oPd4Hdhyg6g06SKAuv/FUTURA-PROTOTIPO?node-id=0%3A1
 
-#### Para esse projeto eu utilizei:
+#### Ferramentas usadas para desenvolver o produto:
 ![Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Estudando no momento:
