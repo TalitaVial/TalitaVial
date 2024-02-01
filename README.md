@@ -1,6 +1,6 @@
 
 ## Atualmente: 
-  Trabalhando como Trainee em Desenvolvimento de Software na CooperSystem.
+  Trabalhando como Desenvolvedora I na CooperSystem.
 
 ## Tenho um trabalho em produção:
  Se trata de uma aplicação web, o diferencial é que ela se comporta como um aplicativo nativo e também funciona no modo offline, desenvolvi esse produto para [Futura Comércio de Instalação e Manutenção](http://www.futurapostos.com.br).
