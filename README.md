@@ -1,6 +1,6 @@
 
 ## Atualmente: 
-  Trabalhando como Programadora I na CooperSystem.
+Trabalho como Programadora I na CooperSystem, desenvolvendo e otimizando interfaces escaláveis e responsivas com React.js e React Native. Sou responsável pela integração com APIs internas e externas, garantindo soluções eficientes e uma experiência de usuário fluida. Também implemento recursos de tradução para suportar múltiplos idiomas, utilizando bibliotecas como i18n, além de garantir a acessibilidade de aplicativos para uma audiência global. Realizo testes com BrowserStack, assegurando que as aplicações funcionem corretamente em diferentes dispositivos e navegadores. Colaboro com equipes de design e backend para entregar soluções de alta qualidade que atendem aos requisitos de negócio e as expectativas dos usuários.
 
 ## Tenho um trabalho em produção:
  Se trata de uma aplicação web, o diferencial é que ela se comporta como um aplicativo nativo e também funciona no modo offline, desenvolvi esse produto para [Futura Comércio de Instalação e Manutenção](http://www.futurapostos.com.br).
